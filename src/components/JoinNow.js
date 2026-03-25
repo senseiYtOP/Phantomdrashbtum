@@ -8,7 +8,7 @@ const JoinNow = () => {
           <h3>Join us now!</h3>
         </div>
         <div className="joinUs-para p-color">
-          Invite our bot to your Discord server!{" "}
+          Invite our bot to your Discord server!{"https://discord.com/oauth2/authorize?client_id=1485648135249465415&permissions=8&integration_type=0&scope=bot+applications.commands"}
         </div>
         <button className="btn">
           <Link className="h-color no-decoration" href="#">
